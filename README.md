@@ -15,7 +15,9 @@ to think too hard when switching between operating systems.
 
 
 # PowerToys, an addition to Mac-Shortcuts
-TL;DR: Essentially just Mac's spotlight feature for Windows, if you can't beat em join em I suppose
+
+### Purpose:
+Essentially just Mac's spotlight feature for Windows, if you can't beat em join em I suppose
 
 ### Directions:
 1. Download powertoys
