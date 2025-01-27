@@ -20,6 +20,7 @@ to think too hard when switching between operating systems.
 Essentially just Mac's spotlight feature for Windows, if you can't beat em join em I suppose
 
 ### Directions:
-1. Download powertoys
+1. Download PowerToys
 2. Click on PowerToys Run
-3. Make sure the shortcut in the ".ahk" file is there for Windows+Space
+3. Make sure the shortcut in PowerToys is set to Windows+Space
+4. Turn on Dark mode bc duh
