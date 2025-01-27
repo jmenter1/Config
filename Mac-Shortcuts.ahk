@@ -2,6 +2,34 @@
 SendMode Input
 
 ; ------------------------------
+; Screen Zoom Shortcuts
+; ------------------------------
+
+#=:: ; Windows + Plus (Zoom In)
+    Send, ^{NumpadAdd} ; Simulates Ctrl + Numpad +
+    Return
+
+#-:: ; Windows + Minus (Zoom Out)
+    Send, ^{NumpadSub} ; Simulates Ctrl + Numpad -
+    Return
+
+; ------------------------------
+; Volume Control Shortcuts
+; ------------------------------
+
+F10::    ; Mute/Unmute
+    SoundSet, +1, , Mute
+    Return
+
+F11::    ; Volume Down
+    SoundSet, -10  ;
+    Return
+
+F12::    ; Volume Up
+    SoundSet, +10  ; 
+    Return
+
+; ------------------------------
 ; Basic Clipboard Shortcuts
 ; ------------------------------
 #c::        ; Copy
