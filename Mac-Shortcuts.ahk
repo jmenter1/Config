@@ -115,7 +115,7 @@ F12::    ; Volume Up
 ; Find/Search Shortcuts
 ; ------------------------------
 #Space::    ; Spotlight
-    Send, !{Win}
+    Send, !{Space}
     Return
 
 #f::        ; Find
