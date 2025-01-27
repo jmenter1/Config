@@ -114,10 +114,6 @@ F12::    ; Volume Up
 ; ------------------------------
 ; Find/Search Shortcuts
 ; ------------------------------
-#Space::    ; Spotlight
-    Send, !{Space}
-    Return
-
 #f::        ; Find
     Send, ^f
     Return
