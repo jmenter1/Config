@@ -1,4 +1,8 @@
-# Mac-Shortcuts for Windows
+# Windows
+## Zed config
+Everything in the Zed config folder
+
+## Mac-Shortcuts for Windows
 TL;DR: Overwriting Windows default keyboard bindings for Mac keyboard
 
 ### Purpose:
@@ -14,7 +18,7 @@ to think too hard when switching between operating systems.
 4. Right-click the original file and choose "Open with" and then AutoKotkey as the default for ".ahk" files
 
 
-# PowerToys, an addition to Mac-Shortcuts
+## PowerToys, an addition to Mac-Shortcuts
 
 ### Purpose:
 Essentially just Mac's spotlight feature for Windows, if you can't beat em join em I suppose
@@ -24,3 +28,8 @@ Essentially just Mac's spotlight feature for Windows, if you can't beat em join 
 2. Click on PowerToys Run
 3. Make sure the shortcut in PowerToys is set to Windows+Space
 4. Turn on Dark mode bc duh
+
+
+# Mac
+## Zed config
+Everything in the Zed config folder
