@@ -1,5 +1,6 @@
 # Windows
 ## Zed config
+location for the config files: C:\Users\<user>\AppData\Roaming\Zed
 Everything in the Zed config folder
 
 ## Mac-Shortcuts for Windows
