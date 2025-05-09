@@ -14,7 +14,7 @@ came with it out of the box. This essentially just overwrites the prexisting bin
 to think too hard when switching between operating systems. 
 
 ### Directions:
-1. Download Autohotkey
+1. Download AutoHotkey 1.1.37.02(syntax changes in v2)
 2. Download script in repo
 3. Put a shortcut of it into the Win+r “shell:startup” folder
 4. Right-click the original file and choose "Open with" and then AutoKotkey as the default for ".ahk" files
